@@ -5,7 +5,7 @@ Deep learning based segmentation proposed in
 
 Code adapted from: https://github.com/thtrieu/darkflow
 
-## How to run:
+## How to run
 
 runfile(r"C:\Users\hemaxi\Desktop\darkflow-master\setup.py",args="build_ext --inplace")
 (where C:\Users\hemaxi\Desktop\darkflow-master is the directory where the setup.py file is saved)
