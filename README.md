@@ -7,10 +7,10 @@ Code adapted from: https://github.com/thtrieu/darkflow
 
 ## How to run
 
-runfile(r"C:\Users\hemaxi\Desktop\darkflow-master\setup.py",args="build_ext --inplace")
+`runfile(r"C:\Users\hemaxi\Desktop\darkflow-master\setup.py",args="build_ext --inplace")`
 (where C:\Users\hemaxi\Desktop\darkflow-master is the directory where the setup.py file is saved)
 
-run flow --model cfg/tiny-yoloc1_1024.cfg --imgdir IMG_DIR --load -1 --json
+`run flow --model cfg/tiny-yoloc1_1024.cfg --imgdir IMG_DIR --load -1 --json`
 (where IMG_DIR is the directory where the test image is saved)
 
 ## How to cite
